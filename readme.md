@@ -5,7 +5,7 @@ AI/ML student building models from scratch — from language models to real-time
 - Student at NGIT
 - Intern at OSI Digital
 - Interested in building AI, training models, and understanding how they actually work under the hood — not just calling APIs
-- [Add your LinkedIn / email / portfolio link here]
+- [https://www.linkedin.com/in/bhuvanagiri-bharadwaj-aba3353a6/bhuvanagiribharadwaj959@gmail.com /https://portfolio-f13cll72e-bhuvanagiribharadwaj959-1906s-projects.vercel.app/]
 
 ---
 
@@ -21,11 +21,11 @@ Built and trained a GPT-style model (124M parameters) from scratch on Kaggle, tr
 ### AI Mock Interview Platform
 An automated technical interview simulator combining a live online compiler with Edge TTS for a realistic, real-time interview experience.
 - Simulates spoken interview questions and evaluates live code responses
-- **Stack:** Edge TTS, online compiler integration, [add your backend/frontend stack]
+- **Stack:** Edge TTS, online compiler integration, [Next js]
 
 ### SONIC — Music App
 A music app built on open-source APIs that also lets users create and build their own music.
-- **Stack:** [add your stack — e.g. React/Flutter, open-source music APIs]
+- **Stack:** [Next js, open-source music APIs]
 
 ### Sign Language to Text
 Real-time sign language recognition system converting gestures into text.
@@ -53,6 +53,6 @@ Sequence-to-sequence translator built with Transformers.
 
 ## Reach Me
 
-- LinkedIn: [add link]
-- Email: [add email]
-- Portfolio: [add link]
+- LinkedIn: [https://www.linkedin.com/in/bhuvanagiri-bharadwaj-aba3353a6/]
+- Email: [bhuvanagiribharadwaj959@gmail.com]
+- Portfolio: [https://portfolio-f13cll72e-bhuvanagiribharadwaj959-1906s-projects.vercel.app/]
